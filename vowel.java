@@ -6,7 +6,7 @@ public class vowel{
         String x = in.next();
         if(x.length()>1){
         
-        System.out.println("Invalid");
+        System.out.println("invalid");
         }
     else{    
         char a = x.charAt(0);
@@ -19,7 +19,7 @@ public class vowel{
             }
         }
         else{
-            System.out.println("Invalid");
+            System.out.println("invalid");
         }
     }
 
